@@ -1,0 +1,40 @@
+p{
+	font-family:ariel;
+	font-size:1.1em;
+}
+nav ul li{
+display:inline;
+}
+
+nav ul{
+ padding-left:0;
+ margin-left:0;
+ background-color:black;
+ float:left;
+ width:100%;
+ 
+
+}
+
+nav ul li a{
+	font-family:sans-serif,ariel;
+	padding:0.2em 1em;
+	background-color:black;
+	color:white;
+	text-decoration:none;
+
+}
+
+nav ul li a:hover{
+	background-color:white;
+	color:black;
+}
+img{
+	background-image:url("the_beatles_logo_.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: calc(100% - 20px) calc(100% - 10px); 
+}
+
+
+
