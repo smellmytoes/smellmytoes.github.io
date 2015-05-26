@@ -4,16 +4,16 @@ p{
 	text-align:left;
 }
 nav ul li{
-display:inline;
+	display:inline;
 }
 
 nav ul{
- padding:6px;
- background-color:black;
- float:left;
- width:100%;
- background:linear-gradient(#383838, black);
- border-radius:8px;
+	 padding:6px;
+	 background-color:black;
+	 float:left;
+	 width:100%;
+	 background:linear-gradient(#383838, black);
+	 border-radius:8px;
 
 }
 
@@ -27,23 +27,23 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-	background:linear-gradient(black, #383838);
-	color:white;
+		background:linear-gradient(black, #383838);
+		color:white;
 }
 
 
 #mainContent {
-	border-style: solid;
-	border-width: 3px;
-	border-radius: 15px;
-	margin-left:200px;
-	margin-right:200px;
-	padding:100px;
-	padding-top:10px;
-	padding-bottom:100px;
-	background-color:white;
-	min-width:640px;
-	box-shadow: 5px 5px 20px black;
+		border-style: solid;
+		border-width: 3px;
+		border-radius: 15px;
+		margin-left:200px;
+		margin-right:200px;
+		padding:100px;
+		padding-top:10px;
+		padding-bottom:100px;
+		background-color:white;
+		min-width:640px;
+		box-shadow: 5px 5px 20px black;
 }
 
 body{
@@ -57,5 +57,5 @@ body img{
 
 
 @viewport {
-width: 640px;
+	width: 640px;
 }
