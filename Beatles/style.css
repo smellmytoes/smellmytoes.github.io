@@ -48,7 +48,7 @@ nav ul li a:hover{
 
 body{
 	background-image:url("background.png");
-
+	vertical-align: middle;
 }
 
 body img{
